@@ -1,0 +1,11 @@
+# env file
+*.env
+
+#log files
+*logs/app.log
+
+#upload files
+/uploads/*
+
+curl.txt
+notes.txt
